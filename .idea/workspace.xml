@@ -1,31 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26cf2817-a593-47e4-bf8d-382284238815" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electron-raffle-display.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forge.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/preload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/raffle/constants.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/raffle/display.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/raffle/raffle-number-button.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/raffle/raffle-number-display.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/raffle/raffle-number-input-unlock-button.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/raffle/raffle-number-input.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.main.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.renderer.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.rules.js" afterDir="false" />
+    <list default="true" id="26cf2817-a593-47e4-bf8d-382284238815" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/build.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/release.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forge.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/forge.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,12 +32,17 @@
     "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "TF_FMT": "false",
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
+    "last_opened_file_path": "C:/Users/Jmric/IdeaProjects/electron-raffle-display/.github/workflows",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jmric\IdeaProjects\electron-raffle-display\.github\workflows" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Jmric\IdeaProjects\electron-raffle-display\src" />
       <recent name="C:\Users\Jmric\IdeaProjects\electron-raffle-display\src\raffle-display" />
@@ -73,8 +59,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677268441594</updated>
-      <workItem from="1677268442885" duration="2978000" />
+      <workItem from="1677268442885" duration="5234000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1677271737355</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677271737355</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +84,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
