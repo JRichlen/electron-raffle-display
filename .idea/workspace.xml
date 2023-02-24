@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26cf2817-a593-47e4-bf8d-382284238815" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron-raffle-display.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forge.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/raffle/constants.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/raffle/display.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/raffle/raffle-number-button.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/raffle/raffle-number-display.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/raffle/raffle-number-input-unlock-button.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/raffle/raffle-number-input.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.main.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.renderer.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.rules.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MCP9kqle49DLzo52YzH0uZeqKd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jmric\IdeaProjects\electron-raffle-display\src" />
+      <recent name="C:\Users\Jmric\IdeaProjects\electron-raffle-display\src\raffle-display" />
+      <recent name="C:\Users\Jmric\IdeaProjects\electron-raffle-display" />
+      <recent name="C:\Users\Jmric\IdeaProjects\electron-raffle-display\electron-raffle-display\src" />
+      <recent name="C:\Users\Jmric\IdeaProjects\electron-raffle-display\electron-raffle-display\src\components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26cf2817-a593-47e4-bf8d-382284238815" name="Changes" comment="" />
+      <created>1677268441594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677268441594</updated>
+      <workItem from="1677268442885" duration="2978000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
